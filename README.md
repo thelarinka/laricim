@@ -1,4 +1,4 @@
-<h2 align="center">larinkaa <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+<h2 align="center">Nasty was here! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 <h3>🔥 Öncelikle selamlarr</h3>
 
