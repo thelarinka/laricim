@@ -1,8 +1,16 @@
 <h2 align="center">Nasty was here! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-<h3>🔥 Öncelikle selamlarr</h3>
-
-- Ben Nasty kendimce birşeyler geliştirmeye, yapmaya çalışıyorum.
+```js
+class Nasty {
+  constructor(...options) {
+    this.height = "1.85"
+    this.weight = "80"
+    this.type = "human"
+    this.job = "student"
+    this.sex = "male"
+  }
+}
+```
 
 <img src="https://komarev.com/ghpvc/?username=NastyJs&label=Ziyaretçi%20Sayısı&color=552b75" alt="NastyJs" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/NastyJs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
