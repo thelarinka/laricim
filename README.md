@@ -1,7 +1,7 @@
 <h2 align="center">Nasty was here! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 ```js
-class Nasty {
+class Larinka {
   constructor(...options) {
     this.height = "1.85"
     this.weight = "80"
@@ -17,7 +17,7 @@ class Nasty {
 <h3>🌟 Sosyal medya</h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/908061037109063712)
-[![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/NastyJs)
+[![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/laricim)
 
 <h1 align="center"> Tek Discord Hesabım <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
